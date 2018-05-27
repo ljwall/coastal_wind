@@ -3,12 +3,15 @@ const webpack = require('webpack'),
 
 module.exports = {
   entry: {
-    osm: './src/osm.js'
+    osm: './src/osm.js',
+    index: './src/index.js'
   },
+
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].bundle.js'
   },
+  devtool: 'inline-source-map',
   module: {
     rules: [
       {
