@@ -1,3 +1,4 @@
+import './main.less';
 import 'ol/ol.css';
 import Map from 'ol/map';
 import View from 'ol/view';
