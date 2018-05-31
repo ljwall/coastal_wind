@@ -15,7 +15,7 @@ import proj from 'ol/proj'
 
 const style = new Style({
     fill: new Fill({
-      color: '#aaa'
+      color: '#fff'
     }),
     stroke: new Stroke({
       color: '#333',
@@ -25,11 +25,11 @@ const style = new Style({
 
   highlightStyle = new Style({
     fill: new Fill({
-      color: '#333'
+      color: '#27262a'
     }),
     stroke: new Stroke({
-      color: '#333',
-      width: 0
+      color: '#d92868',
+      width: 2
     })
   });
 
@@ -50,7 +50,7 @@ new Map({
     })
   ],
   view: new View({
-    center: proj.fromLonLat([-4, 52]),
-    zoom: 5
+    center: proj.fromLonLat([-4.5155615, 50.4004579]),
+    zoom: 9
   })
 });
