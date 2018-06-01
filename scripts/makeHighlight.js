@@ -1,3 +1,6 @@
+const table = process.argv[2] || 'gfs25',
+  outfile = process.argv[3] || __dirname+'/wind-paths.geojson';
+
 const fs = require('fs'),
   mysql = require('mysql');
 
@@ -43,7 +46,7 @@ fs.readFile(__dirname+'/GB-parts.geojson', 'utf8', (err, json) => {
     database: 'gfs'
   });
 
-  connection.query('select * from gfs25 where lat>47 and lon>-8 and lat<65 and lon<5 AND p2="10 m above ground" AND p1 IN ("UGRD", "VGRD")', (err, res, fields) => {
+  connection.query('select * from '+table+' where lat>47 and lon>-8 and lat<65 and lon<5 AND p2="10 m above ground" AND p1 IN ("UGRD", "VGRD")', (err, res, fields) => {
 
     data.features.forEach((feature) => {
       var a = false;
@@ -104,7 +107,7 @@ fs.readFile(__dirname+'/GB-parts.geojson', 'utf8', (err, json) => {
 
     });
 
-    fs.writeFile(__dirname+'/wind-paths.geojson', JSON.stringify(geojsonObject), (err) => {
+    fs.writeFile(outfile, JSON.stringify(geojsonObject), (err) => {
       if (err)
         return console.log('error');
 
