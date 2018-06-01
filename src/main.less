@@ -161,9 +161,13 @@ body {
 		background-color: #323034;
 		border-right: 1px solid #29282c;
 		text-align: center;
-		font-size: 12px;
+		font-size: 10px;
 		padding: 25px 0;
 		color: #989799;
+
+		&:first-child {
+			border-left: 1px solid #29282c;
+		}
 
 		&:last-child {
 			border-right: none;
@@ -259,14 +263,20 @@ body {
 	& > li {
 		display: inline-block;
 		vertical-align: middle;
-		font-size: 16px;
+		font-size: 14px;
 		text-transform: uppercase;
 		padding: 0 15px;
+		font-family: @text2;
+	}
+
+	h3 {
+		margin: 0;
+		line-height: 65px;
 	}
 
 	.toggle {
-		width: 15px;
-		height: 15px;
+		width: 10px;
+		height: 10px;
 		margin-top: -3px;
 		border: 1px solid #989799;
 		border-radius: 100%;

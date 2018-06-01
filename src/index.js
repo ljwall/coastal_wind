@@ -82,14 +82,6 @@ new Map({
         return style;
       }
     }),
-    // Spots
-    new VectorLayer({
-    	source: new VectorSource({
-			url: '/geojson/spots.geojson',
-			format: new GeoJSON()
-    	}),
-    	style: spotsStyle,
-    }),
     // Wind Paths
     new VectorLayer({
 		source: new VectorSource({
@@ -141,7 +133,15 @@ new Map({
 		        })
 			});
 		}
-    })
+    }),
+    // Spots
+    new VectorLayer({
+    	source: new VectorSource({
+			url: '/geojson/spots.geojson',
+			format: new GeoJSON()
+    	}),
+    	style: spotsStyle,
+    }),
   ],
   view: new View({
     center: proj.fromLonLat([-4.5155615, 50.4004579]),
