@@ -70,7 +70,6 @@ var windPathsLayers = [
   "000", "006", "012", "018", "024", "030", "036", "042",
   "048", "054", "060", "066", "072", "078", "084", "090", "096",
   "102", "108", "114", "120", "126", "132", "138"] .map((hr) => {
-    console.log(hr);
     return new VectorLayer({
       visible: false,
       source: new VectorSource({
@@ -114,27 +113,7 @@ var windPathsLayer = windPathsLayers[0],
 
 windPathsLayer.setVisible(true);
 
-var map = new Map({
-  target: 'map',
-  layers: [
-    new VectorLayer({
-      source: new VectorSource({
-        //url: '/geojson/NUTS/NUTS_RG_01M_2013_4326_LEVL_0.geojson',
-        url: '/geojson/UK-parts.geojson',
-        format: new GeoJSON()
-      }),
-      style: (feature) => {
-        if (feature.values_.NUTS_ID === 'UK')
-          return highlightStyle;
-
-        return style;
-      }
-    })].concat(
-      // Wind Paths
-      windPathsLayers
-    ).concat([
-    // Wind Icons
-    new VectorLayer({
+var windIcons = new VectorLayer({
 		source: new VectorSource({
 			url: '/geojson/wind-grid.geojson',
 			format: new GeoJSON()
@@ -151,15 +130,39 @@ var map = new Map({
 		        })
 			});
 		}
-    }),
-    // Spots
-    new VectorLayer({
+    });
+
+var spotLayer = new VectorLayer({
     	source: new VectorSource({
 			url: '/geojson/spots.geojson',
 			format: new GeoJSON()
     	}),
     	style: spotsStyle,
-    }),
+    });
+
+var map = new Map({
+  target: 'map',
+  layers: [
+    new VectorLayer({
+      source: new VectorSource({
+        url: '/geojson/NUTS/NUTS_RG_01M_2013_4326_LEVL_0.geojson',
+        //url: '/geojson/UK-parts.geojson',
+        format: new GeoJSON()
+      }),
+      style: (feature) => {
+        if (feature.values_.NUTS_ID === 'UK')
+          return highlightStyle;
+
+        return style;
+      }
+    })].concat(
+      // Wind Paths
+      windPathsLayers
+    ).concat([
+    // Wind Icons
+    windIcons,
+    // Spots
+    spotLayer,
   ]),
   view: new View({
     center: proj.fromLonLat([-4.5155615, 50.4004579]),
@@ -168,17 +171,17 @@ var map = new Map({
 });
 
 map.getView().on('change', function () {
-	var zoom = this.getZoom(),
-		spots = map.getLayers()['array_'][3],
-		wind = map.getLayers()['array_'][2];
+	var zoom = this.getZoom();
+		//spots = map.getLayers()['array_'][3];
+		//wind = map.getLayers()['array_'][2];
 
 	if (this.getZoom() <= 8) {
-		spots.setVisible(false);
-		wind.setVisible(false)
+		spotLayer.setVisible(false);
+		windIcons.setVisible(false)
 
 	} else {
-		spots.setVisible(true);
-		wind.setVisible(true)
+		spotLayer.setVisible(true);
+		windIcons.setVisible(true)
 	}
 });
 
