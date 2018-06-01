@@ -67,7 +67,7 @@ const style = new Style({
 	});
 
 
-new Map({
+var map = new Map({
   target: 'map',
   layers: [
     new VectorLayer({
@@ -149,5 +149,29 @@ new Map({
   view: new View({
     center: proj.fromLonLat([-4.5155615, 50.4004579]),
     zoom: 9
-  })
+  }),
+});
+
+map.getView().on('change', function () {
+	var zoom = this.getZoom(),
+		spots = map.getLayers()['array_'][3],
+		wind = map.getLayers()['array_'][2];
+
+	if (this.getZoom() <= 8) {
+		spots.setVisible(false);
+		wind.setVisible(false)
+
+	} else {
+		spots.setVisible(true);
+		wind.setVisible(true)
+	}
+});
+
+$('.scrubber li').hover(function () {
+	var id = $(this).data('id'),
+		paths = map.getLayers()['array_'][2],
+		wind = map.getLayers()['array_'][3];
+
+	// paths.setSource(id);
+	// wind.setSource(id);
 });
