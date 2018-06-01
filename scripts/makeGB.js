@@ -11,9 +11,6 @@ fs.readFile(__dirname+'/../public/geojson/NUTS/NUTS_RG_01M_2013_4326_LEVL_0.geoj
     if (index !== 1) {
       geojsonObject.features.push({
         type: 'Feature',
-        properties: {
-          name: 'Ind:'+index
-        },
         geometry: {
           type: 'Polygon',
           coordinates: data

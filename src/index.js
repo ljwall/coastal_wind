@@ -93,17 +93,37 @@ new Map({
     // Wind Paths
     new VectorLayer({
 		source: new VectorSource({
-			url: '/geojson/windPaths.geojson',
+			url: '/geojson/wind-paths.geojson',
 			format: new GeoJSON()
 		}),
 		style: (feature) => {
-			if (feature.values_.wind === 'danger')
-				return dangerPath;
+      var props = feature.getProperties();
 
-			else if (feature.values_.wind === 'success')
-				return successPath;
+      if (props.direction === 'offshore') {
 
-			return warningPath;
+        if (feature.getProperties().beaufort >=6) {
+          return dangerPath;
+        } else if (feature.getProperties().beaufort >=4) {
+          return warningPath;
+        } else {
+          return successPath;
+        }
+
+      } else if (props.direction === 'crossshore') {
+
+        if (feature.getProperties().beaufort >=3) {
+          return dangerPath;
+        } else if (feature.getProperties().beaufort >=2) {
+          return warningPath;
+        } else {
+          return successPath;
+        }
+
+      } else if (props.direction === 'onshore') {
+
+        return dangerPath;
+
+      }
 		}
     }),
     // Wind Icons
