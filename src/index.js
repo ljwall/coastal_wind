@@ -111,7 +111,7 @@ new Map({
           return successPath;
         }
 
-      } else if (props.direction === 'onshore') {
+      } else {
 
         return dangerPath;
 
@@ -121,15 +121,18 @@ new Map({
     // Wind Icons
     new VectorLayer({
 		source: new VectorSource({
-			url: '/geojson/wind.geojson',
+			url: '/geojson/wind-grid.geojson',
 			format: new GeoJSON()
 		}),
 		style: (feature) => {
+      var props = feature.getProperties();
+
 			return new Style({
 				image: new Icon({
 					src: '/svg/windIcon.svg',
 					imgSize: [12, 29],
-					rotation: feature.values_.wind.direction * 0.01745329252
+          scale: props.wind.beaufort / 3.0,
+					rotation: -props.wind.direction
 		        })
 			});
 		}
