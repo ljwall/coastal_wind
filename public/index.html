@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<title>B0$$ WIND HIGHLTING</title>
-		<link href="https://fonts.googleapis.com/css?family=Cabin|Roboto:300" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,600|Open+Sans:200,300,400,600" rel="stylesheet">
 	</head>
 
 	<body>
-		<div class="header header-row row">
+		<div class="header header-row clearfix row">
 			<div class="col header-col left">
 				<h6 class='breadcrumb'><span class="text-blue">Europe</span> <span class="spacer">></span> <span class="text-blue">Uk &amp; Ireland</span> <span class="spacer">></span> South West England</h6>
 				<h1 class='title'>Coastal Wind Highlighting</h1>
@@ -20,9 +20,80 @@
 			</div>
 		</div>
 		<div class="body">
-			<div class="row application-window">
-				<div class="col left"></div>
-				<div class="col right map-container"><div id="map"></div></div>
+			<div class="application-window">
+				<div class="row clearfix first">
+					<div class="col left">
+						<div class="block">
+							<h5 class='title'>Wind</h5>
+							<ul class='list-unstyled'>
+								<li> <span class="line success"></span> Offshore <span class="toggle">ON</span> </li>
+								<li> <span class="line warning"></span> Cross-Shore <span class="toggle">ON</span> </li>
+								<li> <span class="line danger"></span> Onshore <span class="toggle">ON</span> </li>
+							</ul>
+						</div>
+						<div class="block">
+							<h5 class='title'>Spots</h5>
+							<ul class='list-unstyled'>
+								<li> <span class="circle blue"></span> Optimum <span class="toggle">ON</span> </li>
+								<li> <span class="circle white"></span> All Spots <span class="toggle inactive">OFF</span> </li>
+								<li> <span class="circle yellow"></span> Webcams <span class="toggle inactive">OFF</span> </li>
+							</ul>
+						</div>
+						<div class="block">
+							<h5 class='title'>Swell</h5>
+							<ul class='list-unstyled'>
+								<li> Period <span class="toggle">ON</span> </li>
+								<li> Heights <span class="toggle inactive">OFF</span> </li>
+								<li> Wind <span class="toggle inactive">OFF</span> </li>
+							</ul>
+						</div>
+						<div class="block">
+							<h5 class='title'>Terrain</h5>
+							<ul class='list-unstyled'>
+								<li> Geography <span class="toggle inactive">OFF</span> </li>
+								<li> Bathemetry <span class="toggle inactive">OFF</span> </li>
+								<li> Features <span class="toggle inactive">OFF</span> </li>
+							</ul>
+						</div>
+					</div>
+					<div class="col right map-container"><div id="map"></div></div>
+				</div>
+				<div class="row clearfix second">
+					<div class="col left">
+						<ul class="list-unstyled hour-toggle">
+							<li><h3>1hr <span class="toggle is-active"></span></h3></li>
+							<li><h3>3hr <span class="toggle"></span></h3></li>
+						</ul>
+					</div>
+					<div class="col right">
+						<ul class="list-unstyled scrubber clearfix">
+							<li>1</li>
+							<li>2</li>
+							<li>3</li>
+							<li>4</li>
+							<li>5</li>
+							<li>6</li>
+							<li>7</li>
+							<li>8</li>
+							<li>9</li>
+							<li>10</li>
+							<li>11</li>
+							<li>NOON</li>
+							<li>1</li>
+							<li>2</li>
+							<li>3</li>
+							<li>4</li>
+							<li>5</li>
+							<li>6</li>
+							<li>7</li>
+							<li>8</li>
+							<li>9</li>
+							<li>10</li>
+							<li>11</li>
+							<li>12</li>
+						</ul>
+					</div>
+				</div>
 			</div>
 		</div>
 		<script src="./index.bundle.js"></script>
