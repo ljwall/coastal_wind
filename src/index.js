@@ -166,3 +166,12 @@ map.getView().on('change', function () {
 		wind.setVisible(true)
 	}
 });
+
+$('.scrubber li').hover(function () {
+	var id = $(this).data('id'),
+		paths = map.getLayers()['array_'][2],
+		wind = map.getLayers()['array_'][3];
+
+	// paths.setSource(id);
+	// wind.setSource(id);
+});
