@@ -67,7 +67,7 @@ const style = new Style({
 	});
 
 
-new Map({
+var map = new Map({
   target: 'map',
   layers: [
     new VectorLayer({
@@ -149,5 +149,9 @@ new Map({
   view: new View({
     center: proj.fromLonLat([-4.5155615, 50.4004579]),
     zoom: 9
-  })
+  }),
+});
+
+map.events.register("zoomend", map, function(){
+	console.log(arguments);
 });
