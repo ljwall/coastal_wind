@@ -152,6 +152,17 @@ var map = new Map({
   }),
 });
 
-map.events.register("zoomend", map, function(){
-	console.log(arguments);
+map.getView().on('change', function () {
+	var zoom = this.getZoom(),
+		spots = map.getLayers()['array_'][3],
+		wind = map.getLayers()['array_'][2];
+
+	if (this.getZoom() <= 8) {
+		spots.setVisible(false);
+		wind.setVisible(false)
+
+	} else {
+		spots.setVisible(true);
+		wind.setVisible(true)
+	}
 });
