@@ -128,7 +128,7 @@ new Map({
 			return new Style({
 				image: new Icon({
 					src: '/svg/windIcon.svg',
-					imgSize: [29, 12],
+					imgSize: [12, 29],
 					rotation: feature.values_.wind.direction * 0.01745329252
 		        })
 			});
