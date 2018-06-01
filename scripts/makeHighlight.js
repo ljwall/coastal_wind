@@ -57,12 +57,14 @@ fs.readFile(__dirname+'/GB-parts.geojson', 'utf8', (err, json) => {
           return;
         }
 
-        var lat = Math.round((a[1] + b[1]) * 2) / 4,
-          lon = Math.round((a[0] + b[0]) * 2) / 4,
+        var lat = Math.round((a[1] + b[1])) / 2,
+          lon = Math.round((a[0] + b[0]) ) / 2,
           ugrd = res.find((row) => row.lat == lat && row.lon == lon && row.p1 === 'UGRD'),
           vgrd = res.find((row) => row.lat == lat && row.lon == lon && row.p1 === 'VGRD');
 
-        if (typeof ugrd === 'undefined' || typeof vgrd === 'undefined') return;
+        if (typeof ugrd === 'undefined' || typeof vgrd === 'undefined') {
+          return;
+        }
 
         // speed in m/s
         var speed = Math.sqrt(ugrd.val*ugrd.val + vgrd.val*vgrd.val),

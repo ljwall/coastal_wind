@@ -66,13 +66,61 @@ const style = new Style({
 		})
 	});
 
+var windPathsLayers = [
+  "000", "006", "012", "018", "024", "030", "036", "042",
+  "048", "054", "060", "066", "072", "078", "084", "090", "096",
+  "102", "108", "114", "120", "126", "132", "138"] .map((hr) => {
+    console.log(hr);
+    return new VectorLayer({
+      visible: false,
+      source: new VectorSource({
+        url: '/geojson/wind-paths-'+hr+'.geojson',
+        format: new GeoJSON()
+      }),
+      style: (feature) => {
+        var props = feature.getProperties();
+
+        if (props.direction === 'offshore') {
+
+          if (feature.getProperties().beaufort >=6) {
+            return dangerPath;
+          } else if (feature.getProperties().beaufort >=4) {
+            return warningPath;
+          } else {
+            return successPath;
+          }
+
+        } else if (props.direction === 'crossshore') {
+
+          if (feature.getProperties().beaufort >=3) {
+            return dangerPath;
+          } else if (feature.getProperties().beaufort >=2) {
+            return warningPath;
+          } else {
+            return successPath;
+          }
+
+        } else {
+
+          return dangerPath;
+
+        }
+      }
+  });
+});
+
+var windPathsLayer = windPathsLayers[0],
+  curLayer = 0;
+
+windPathsLayer.setVisible(true);
 
 var map = new Map({
   target: 'map',
   layers: [
     new VectorLayer({
       source: new VectorSource({
-        url: '/geojson/NUTS/NUTS_RG_01M_2013_4326_LEVL_0.geojson',
+        //url: '/geojson/NUTS/NUTS_RG_01M_2013_4326_LEVL_0.geojson',
+        url: '/geojson/UK-parts.geojson',
         format: new GeoJSON()
       }),
       style: (feature) => {
@@ -81,43 +129,10 @@ var map = new Map({
 
         return style;
       }
-    }),
-    // Wind Paths
-    new VectorLayer({
-		source: new VectorSource({
-			url: '/geojson/wind-paths.geojson',
-			format: new GeoJSON()
-		}),
-		style: (feature) => {
-      var props = feature.getProperties();
-
-      if (props.direction === 'offshore') {
-
-        if (feature.getProperties().beaufort >=6) {
-          return dangerPath;
-        } else if (feature.getProperties().beaufort >=4) {
-          return warningPath;
-        } else {
-          return successPath;
-        }
-
-      } else if (props.direction === 'crossshore') {
-
-        if (feature.getProperties().beaufort >=3) {
-          return dangerPath;
-        } else if (feature.getProperties().beaufort >=2) {
-          return warningPath;
-        } else {
-          return successPath;
-        }
-
-      } else {
-
-        return dangerPath;
-
-      }
-		}
-    }),
+    })].concat(
+      // Wind Paths
+      windPathsLayers
+    ).concat([
     // Wind Icons
     new VectorLayer({
 		source: new VectorSource({
@@ -145,7 +160,7 @@ var map = new Map({
     	}),
     	style: spotsStyle,
     }),
-  ],
+  ]),
   view: new View({
     center: proj.fromLonLat([-4.5155615, 50.4004579]),
     zoom: 9
@@ -169,9 +184,19 @@ map.getView().on('change', function () {
 
 $('.scrubber li').hover(function () {
 	var id = $(this).data('id'),
-		paths = map.getLayers()['array_'][2],
+		//paths = map.getLayers()['array_'][2],
 		wind = map.getLayers()['array_'][3];
 
-	// paths.setSource(id);
+
+  //console.log(id);
+  windPathsLayers[curLayer].setVisible(false);
+  curLayer = +id
+  console.log(curLayer);
+  windPathsLayers[curLayer].setVisible(true);
+
+	//windPathsLayer.setSource(new VectorSource({
+	//		url: '/geojson/wind-paths-'+id+'.geojson',
+	//		format: new GeoJSON()
+	//	}));
 	// wind.setSource(id);
 });
