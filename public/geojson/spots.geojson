@@ -4,2841 +4,2771 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Aberavon",
+				"name": "Aberavon"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5853, -3.8127 ]
+				"coordinates": [ -3.8127 , 51.5853]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Aberdaron",
+				"name": "Aberdaron"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.8019, -4.7126 ]
+				"coordinates": [ -4.7126 , 52.8019]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Aberdeen - Beach",
+				"name": "Aberdeen - Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.1525, -2.0768 ]
+				"coordinates": [ -2.0768 , 57.1525]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Abereiddy",
+				"name": "Abereiddy"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.9364, -5.207 ]
+				"coordinates": [ -5.207 , 51.9364]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Achill Island",
+				"name": "Achill Island"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.9634, -10.0511 ]
+				"coordinates": [ -10.0511 , 53.9634]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Anglesey (Ynys Môn)",
+				"name": "Anglesey (Ynys Môn)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.1653, -4.555 ]
+				"coordinates": [ -4.555 , 53.1653]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Annestown Bay",
+				"name": "Annestown Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1386, -7.2722 ]
+				"coordinates": [ -7.2722 , 52.1386]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Arbroath",
+				"name": "Arbroath"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.5509, -2.6005 ]
+				"coordinates": [ -2.6005 , 56.5509]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Ardnave Bay",
+				"name": "Ardnave Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.8849, -6.3182 ]
+				"coordinates": [ -6.3182 , 55.8849]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Armadale Bay",
+				"name": "Armadale Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5543, -4.0762 ]
+				"coordinates": [ -4.0762 , 58.5543]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bacton",
+				"name": "Bacton"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.8557, 1.4771 ]
+				"coordinates": [ 1.4771 , 52.8557]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Balephuil",
+				"name": "Balephuil"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.4572, -6.954 ]
+				"coordinates": [ -6.954 , 56.4572]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Balevullin",
+				"name": "Balevullin"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.5234, -6.956 ]
+				"coordinates": [ -6.956 , 56.5234]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Ballybunion ",
+				"name": "Ballybunion "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.5122, -9.6816 ]
+				"coordinates": [ -9.6816 , 52.5122]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Balmedie to Newburgh",
+				"name": "Balmedie to Newburgh"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.2711, -2.0176 ]
+				"coordinates": [ -2.0176 , 57.2711]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bamburgh",
+				"name": "Bamburgh"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.6145, -1.7118 ]
+				"coordinates": [ -1.7118 , 55.6145]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Banff - Beach",
+				"name": "Banff - Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.6661, -2.5181 ]
+				"coordinates": [ -2.5181 , 57.6661]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Banna Beach ",
+				"name": "Banna Beach "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.3382, -9.8352 ]
+				"coordinates": [ -9.8352 , 52.3382]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bantham",
+				"name": "Bantham"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2787, -3.8885 ]
+				"coordinates": [ -3.8885 , 50.2787]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Barmouth",
+				"name": "Barmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.75, -4.1 ]
+				"coordinates": [ -4.1 , 52.75]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Barrel Rock",
+				"name": "Beadnell Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.0661, -4.7404 ]
+				"coordinates": [ -1.6298 , 55.5341]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Beadnell Bay",
+				"name": "Belhaven Bay (Dunbar)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.5341, -1.6298 ]
+				"coordinates": [ -2.5509 , 56.0049]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Belhaven Bay (Dunbar)",
+				"name": "Benone Strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.0049, -2.5509 ]
+				"coordinates": [ -6.8395 , 55.168]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Benone Strand",
+				"name": "Bertra Beach (Murrisk)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.168, -6.8395 ]
+				"coordinates": [ -9.6539 , 53.7879]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bertra Beach (Murrisk)",
+				"name": "Birling Gap"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.7879, -9.6539 ]
+				"coordinates": [ 0.2 , 50.74]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Birling Gap",
+				"name": "Birsay Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.74, 0.2 ]
+				"coordinates": [ -3.32 , 59.14]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Birsay Bay",
+				"name": "Blackpool South"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 59.14, -3.32 ]
+				"coordinates": [ -3.0592 , 53.7946]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Blackpool South",
+				"name": "Borth / Ynyslas "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.7946, -3.0592 ]
+				"coordinates": [ -4.0563 , 52.4999]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Borth / Ynyslas ",
+				"name": "Boscombe"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.4999, -4.0563 ]
+				"coordinates": [ -1.8415 , 50.7186]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Boscombe",
+				"name": "Bournemouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7186, -1.8415 ]
+				"coordinates": [ -1.873 , 50.7149]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bournemouth",
+				"name": "Boyndie Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7149, -1.873 ]
+				"coordinates": [ -2.5534 , 57.6714]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Boyndie Bay",
+				"name": "Bracklesham Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.6714, -2.5534 ]
+				"coordinates": [ -0.8444 , 50.7536]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bracklesham Bay",
+				"name": "Brandon Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7536, -0.8444 ]
+				"coordinates": [ -10.0403 , 52.2987]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Brandon Bay",
+				"name": "Breckon"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.2987, -10.0403 ]
+				"coordinates": [ -1.0378 , 60.7272]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Breckon",
+				"name": "Brighton - Marina"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 60.7272, -1.0378 ]
+				"coordinates": [ -0.0923 , 50.8114]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Brighton - Marina",
+				"name": "Brighton - West Pier"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8114, -0.0923 ]
+				"coordinates": [ -0.1499 , 50.8201]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Brighton - West Pier",
+				"name": "Brimms Ness - The Point"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8201, -0.1499 ]
+				"coordinates": [ -3.65 , 58.6223]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Brimms Ness - The Point",
+				"name": "Broadstairs - Viking Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.6223, -3.65 ]
+				"coordinates": [ 1.4458 , 51.3581]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Broadstairs - Viking Bay",
+				"name": "Brora Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.3581, 1.4458 ]
+				"coordinates": [ -3.8397 , 58.0139]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Brora Beach",
+				"name": "Bu Sands"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.0139, -3.8397 ]
+				"coordinates": [ -2.89 , 58.86]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bu Sands",
+				"name": "Bude - Crooklets"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.86, -2.89 ]
+				"coordinates": [ -4.5548 , 50.8358]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bude - Crooklets",
+				"name": "Bude - Summerleaze"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8358, -4.5548 ]
+				"coordinates": [ -4.5463 , 50.8361]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bude - Summerleaze",
+				"name": "Bundoran - The Peak"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8361, -4.5463 ]
+				"coordinates": [ -8.287 , 54.4813]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bundoran - The Peak",
+				"name": "Bunmahon"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.4813, -8.287 ]
+				"coordinates": [ -7.3689 , 52.1375]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bunmahon",
+				"name": "Camber sands"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1375, -7.3689 ]
+				"coordinates": [ 0.796 , 50.9331]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Camber sands",
+				"name": "Caravans"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.9331, 0.796 ]
+				"coordinates": [ -5.7087 , 55.5534]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Caravans",
+				"name": "Carrowniskey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.5534, -5.7087 ]
+				"coordinates": [ -9.8963 , 53.7262]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Carrowniskey",
+				"name": "Castlehill to Murkle"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.7262, -9.8963 ]
+				"coordinates": [ -3.3978 , 58.6039]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Castlehill to Murkle",
+				"name": "Caswell Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.6039, -3.3978 ]
+				"coordinates": [ -4.0354 , 51.5668]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Caswell Bay",
+				"name": "Cayton Bay - Pumphouse"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5668, -4.0354 ]
+				"coordinates": [ -0.3634 , 54.247]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Cayton Bay - Pumphouse",
+				"name": "Challaborough"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.247, -0.3634 ]
+				"coordinates": [ -3.8997 , 50.2869]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Challaborough",
+				"name": "Chapel Porth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2869, -3.8997 ]
+				"coordinates": [ -5.2378 , 50.3015]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Chapel Porth",
+				"name": "Cliff"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.3015, -5.2378 ]
+				"coordinates": [ -6.9685 , 58.2227]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Cliff",
+				"name": "Clogherhead"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.2227, -6.9685 ]
+				"coordinates": [ -6.2183 , 53.7909]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Clogherhead",
+				"name": "Coldingham Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.7909, -6.2183 ]
+				"coordinates": [ -2.1326 , 55.8923]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Coldingham Bay",
+				"name": "Constantine"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.8923, -2.1326 ]
+				"coordinates": [ -5.0221 , 50.5333]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Constantine",
+				"name": "Corblets Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.5333, -5.0221 ]
+				"coordinates": [ -2.1733 , 49.7289]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Corblets Bay",
+				"name": "Crackington Haven"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.7289, -2.1733 ]
+				"coordinates": [ -4.6362 , 50.7413]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Crackington Haven",
+				"name": "Crantock"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7413, -4.6362 ]
+				"coordinates": [ -5.1231 , 50.4064]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Crantock",
+				"name": "Cregg / Moy Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4064, -5.1231 ]
+				"coordinates": [ -9.3555 , 52.9185]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Cregg / Moy Beach",
+				"name": "Cromer"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.9185, -9.3555 ]
+				"coordinates": [ 1.3017 , 52.9327]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Cromer",
+				"name": "Croyde Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.9327, 1.3017 ]
+				"coordinates": [ -4.2435 , 51.1302]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Croyde Beach",
+				"name": "Cruden Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.1302, -4.2435 ]
+				"coordinates": [ -1.8499 , 57.4105]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Cruden Bay",
+				"name": "Culdaff"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.4105, -1.8499 ]
+				"coordinates": [ -7.1469 , 55.2945]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Culdaff",
+				"name": "Curracloe"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.2945, -7.1469 ]
+				"coordinates": [ -6.3606 , 52.3883]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Curracloe",
+				"name": "Dalbeg"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.3883, -6.3606 ]
+				"coordinates": [ -6.7386 , 58.3147]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dalbeg",
+				"name": "Dooey Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.3147, -6.7386 ]
+				"coordinates": [ -8.3869 , 54.8705]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dooey Beach",
+				"name": "Dublin Area"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.8705, -8.3869 ]
+				"coordinates": [ -6.0535 , 53.0148]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "drivers",
+				"name": "Dunaverty"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.0681, -4.7335 ]
+				"coordinates": [ -5.6815 , 55.3075]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dublin Area",
+				"name": "Dunfanaghy"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.0148, -6.0535 ]
+				"coordinates": [ -7.9451 , 55.1823]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dunaverty",
+				"name": "Dunmoran Strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.3075, -5.6815 ]
+				"coordinates": [ -8.7245 , 54.2637]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dunfanaghy",
+				"name": "Dunnet Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.1823, -7.9451 ]
+				"coordinates": [ -3.3501 , 58.615]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dunmoran Strand",
+				"name": "Durness (Balnakeil Bay)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2637, -8.7245 ]
+				"coordinates": [ -4.7679 , 58.5785]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Dunnet Bay",
+				"name": "Easkey Left"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.615, -3.3501 ]
+				"coordinates": [ -8.9589 , 54.2951]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Durness (Balnakeil Bay)",
+				"name": "Easkey Right"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5785, -4.7679 ]
+				"coordinates": [ -8.9481 , 54.2961]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Easkey Left",
+				"name": "East Runton"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2951, -8.9589 ]
+				"coordinates": [ 1.2906 , 52.935]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Easkey Right",
+				"name": "East Wittering"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2961, -8.9481 ]
+				"coordinates": [ -0.8762 , 50.7648]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "East Runton",
+				"name": "Eastbourne"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.935, 1.2906 ]
+				"coordinates": [ 0.291 , 50.7639]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "East Wittering",
+				"name": "Elly Bay West"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7648, -0.8762 ]
+				"coordinates": [ -10.1044 , 54.1599]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Eastbourne",
+				"name": "Enniscrone"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7639, 0.291 ]
+				"coordinates": [ -9.0961 , 54.2196]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Elly Bay West",
+				"name": "Eoropie"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.1599, -10.1044 ]
+				"coordinates": [ -6.2764 , 58.4981]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Enniscrone",
+				"name": "Exmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2196, -9.0961 ]
+				"coordinates": [ -3.41 , 50.61]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Eoropie",
+				"name": "Falmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.4981, -6.2764 ]
+				"coordinates": [ -5.0693 , 50.1408]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Exmouth",
+				"name": "Filey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.61, -3.41 ]
+				"coordinates": [ -0.2825 , 54.2074]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Falmouth",
+				"name": "Fisk Helliar"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.1408, -5.0693 ]
+				"coordinates": [ -3.172 , 59.1413]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Filey",
+				"name": "Folkestone"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2074, -0.2825 ]
+				"coordinates": [ 1.1913 , 51.0814]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Fisk Helliar",
+				"name": "Fort Le Marchant - Guernsey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 59.1413, -3.172 ]
+				"coordinates": [ -2.5164 , 49.5079]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Folkestone",
+				"name": "Fraserburgh"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.0814, 1.1913 ]
+				"coordinates": [ -1.9807 , 57.6798]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Fort Le Marchant - Guernsey",
+				"name": "Freshwater West"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.5079, -2.5164 ]
+				"coordinates": [ -5.0636 , 51.6499]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Fraserburgh",
+				"name": "Garretstown"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.6798, -1.9807 ]
+				"coordinates": [ -8.5811 , 51.6429]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Freshwater West",
+				"name": "Garywilliam Point"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.6499, -5.0636 ]
+				"coordinates": [ -10.0602 , 52.3076]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Garretstown",
+				"name": "Glenbrittle"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.6429, -8.5811 ]
+				"coordinates": [ -6.2903 , 57.201]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Garywilliam Point",
+				"name": "Godrevy"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.3076, -10.0602 ]
+				"coordinates": [ -5.3946 , 50.2304]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Glenbrittle",
+				"name": "Gorleston"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.201, -6.2903 ]
+				"coordinates": [ 1.7386 , 52.5766]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Godrevy",
+				"name": "Graveyards"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2304, -5.3946 ]
+				"coordinates": [ -5.7087 , 55.549]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Gorleston",
+				"name": "Great Yarmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.5766, 1.7386 ]
+				"coordinates": [ 1.7391 , 52.603]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Graveyards",
+				"name": "Greve de Lecq - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.549, -5.7087 ]
+				"coordinates": [ -2.2016 , 49.2475]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Great Yarmouth",
+				"name": "Gulberwick"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.603, 1.7391 ]
+				"coordinates": [ -1.2009 , 60.1287]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Greve de Lecq - Jersey",
+				"name": "Gwenvor"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.2475, -2.2016 ]
+				"coordinates": [ -5.6911 , 50.091]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Gulberwick",
+				"name": "Gwithian"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 60.1287, -1.2009 ]
+				"coordinates": [ -5.399 , 50.2235]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Gwenvor",
+				"name": "Harlech to Barmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.091, -5.6911 ]
+				"coordinates": [ -4.1443 , 52.787]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Gwithian",
+				"name": "Harlyn"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2235, -5.399 ]
+				"coordinates": [ -4.9939 , 50.5401]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Harlech to Barmouth",
+				"name": "Hastings"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.787, -4.1443 ]
+				"coordinates": [ 0.5755 , 50.8527]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Harlyn",
+				"name": "Hayling Island"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.5401, -4.9939 ]
+				"coordinates": [ -0.9803 , 50.7798]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hastings",
+				"name": "Hells Mouth (Porth Neigwl)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8527, 0.5755 ]
+				"coordinates": [ -4.5508 , 52.8074]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hayling Island",
+				"name": "Highcliffe"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7798, -0.9803 ]
+				"coordinates": [ -1.7008 , 50.7362]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hells Mouth (Porth Neigwl)",
+				"name": "Holywell Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.8074, -4.5508 ]
+				"coordinates": [ -5.1475 , 50.3926]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Highcliffe",
+				"name": "Hornsea"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7362, -1.7008 ]
+				"coordinates": [ -0.157 , 53.9075]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Holywell Bay",
+				"name": "Hosta"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.3926, -5.1475 ]
+				"coordinates": [ -7.5047 , 57.6277]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hornsea",
+				"name": "Hunts Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.9075, -0.157 ]
+				"coordinates": [ -4.0904 , 51.5635]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hosta",
+				"name": "Inch Reefs"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.6277, -7.5047 ]
+				"coordinates": [ -10.0009 , 52.1402]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hunts Bay",
+				"name": "Inch Strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5635, -4.0904 ]
+				"coordinates": [ -9.9835 , 52.1408]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Inch Reefs",
+				"name": "Inchydoney"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1402, -10.0009 ]
+				"coordinates": [ -8.8598 , 51.5943]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Inch Strand",
+				"name": "Islay (Machir Bay)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1408, -9.9835 ]
+				"coordinates": [ -6.4621 , 55.7791]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Inchydoney",
+				"name": "Isle of Lewis"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5943, -8.8598 ]
+				"coordinates": [ -6.7571 , 58.3067]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Islay (Machir Bay)",
+				"name": "Isle of Wight - Compton "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.7791, -6.4621 ]
+				"coordinates": [ -1.4765 , 50.6611]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Isle of Lewis",
+				"name": "Isle of Wight - Freshwater"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.3067, -6.7571 ]
+				"coordinates": [ -1.5122 , 50.6681]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Isle of Man",
+				"name": "Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.0755, -4.6967 ]
+				"coordinates": [ -2.2245 , 49.2044]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Isle of Wight - Compton ",
+				"name": "Joss Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.6611, -1.4765 ]
+				"coordinates": [ 1.4471 , 51.3799]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Isle of Wight - Freshwater",
+				"name": "Keiss"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.6681, -1.5122 ]
+				"coordinates": [ -3.1231 , 58.5252]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Jersey",
+				"name": "Kilcummin Harbour"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.2044, -2.2245 ]
+				"coordinates": [ -9.2058 , 54.2803]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Joss Bay",
+				"name": "Kilmurren"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.3799, 1.4471 ]
+				"coordinates": [ -7.3196 , 52.1383]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Keiss",
+				"name": "Kimmeridge"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5252, -3.1231 ]
+				"coordinates": [ -2.1334 , 50.6044]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kilcummin Harbour",
+				"name": "Kingsbarns"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2803, -9.2058 ]
+				"coordinates": [ -2.6396 , 56.3007]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kilmurren",
+				"name": "L'Ancresse Bay - Guernsey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1383, -7.3196 ]
+				"coordinates": [ -2.5298 , 49.5039]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kimmeridge",
+				"name": "La Rocco - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.6044, -2.1334 ]
+				"coordinates": [ -2.2355 , 49.1979]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kingsbarns",
+				"name": "Lackan Bay / Kilcummin"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.3007, -2.6396 ]
+				"coordinates": [ -9.2455 , 54.2869]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "L'Ancresse Bay - Guernsey",
+				"name": "Laggan Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.5039, -2.5298 ]
+				"coordinates": [ -6.2852 , 55.6901]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "La Rocco - Jersey",
+				"name": "Lahinch - Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.1979, -2.2355 ]
+				"coordinates": [ -9.3527 , 52.9328]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lackan Bay / Kilcummin",
+				"name": "Lahinch - Cornish Left"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2869, -9.2455 ]
+				"coordinates": [ -9.3556 , 52.9236]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Laggan Bay",
+				"name": "Lahinch - Shit Creek"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.6901, -6.2852 ]
+				"coordinates": [ -9.3554 , 52.9215]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lahinch - Beach",
+				"name": "Langland Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.9328, -9.3527 ]
+				"coordinates": [ -4.0101 , 51.5661]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lahinch - Cornish Left",
+				"name": "Les Brayes - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.9236, -9.3556 ]
+				"coordinates": [ -2.2271 , 49.1979]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lahinch - Shit Creek",
+				"name": "Littlehampton"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.9215, -9.3554 ]
+				"coordinates": [ -0.5331 , 50.8018]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Langland Bay",
+				"name": "Llangennith"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5661, -4.0101 ]
+				"coordinates": [ -4.3057 , 51.5961]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Les Brayes - Jersey",
+				"name": "Llangrannog"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.1979, -2.2271 ]
+				"coordinates": [ -4.4722 , 52.1608]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Littlehampton",
+				"name": "Long Strand (Castlefreke)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8018, -0.5331 ]
+				"coordinates": [ -8.969 , 51.5562]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Llangennith",
+				"name": "Lossiemouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5961, -4.3057 ]
+				"coordinates": [ -3.2777 , 57.7188]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Llangrannog",
+				"name": "Lossit Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1608, -4.4722 ]
+				"coordinates": [ -6.4966 , 55.7139]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Long Strand (Castlefreke)",
+				"name": "Lowestoft"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5562, -8.969 ]
+				"coordinates": [ 1.7486 , 52.4672]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lossiemouth",
+				"name": "Lunan Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.7188, -3.2777 ]
+				"coordinates": [ -2.5017 , 56.6518]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lossit Bay",
+				"name": "Lusty Glaze"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.7139, -6.4966 ]
+				"coordinates": [ -5.0682 , 50.4232]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lowestoft",
+				"name": "Lyme Regis"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.4672, 1.7486 ]
+				"coordinates": [ -2.9399 , 50.7194]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lunan Bay",
+				"name": "Lynmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.6518, -2.5017 ]
+				"coordinates": [ -3.8318 , 51.2342]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lusty Glaze",
+				"name": "Machrihanish"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4232, -5.0682 ]
+				"coordinates": [ -5.7246 , 55.4293]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lyme Regis",
+				"name": "Mangersta"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7194, -2.9399 ]
+				"coordinates": [ -7.0914 , 58.1643]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Lynmouth",
+				"name": "Manorbier"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.2342, -3.8318 ]
+				"coordinates": [ -4.8051 , 51.6424]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Machrihanish",
+				"name": "Marske to Tees"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.4293, -5.7246 ]
+				"coordinates": [ -1.0921 , 54.6261]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Mangersta",
+				"name": "Marwick"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.1643, -7.0914 ]
+				"coordinates": [ -3.3537 , 59.1079]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Manorbier",
+				"name": "Mawgan Porth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.6424, -4.8051 ]
+				"coordinates": [ -5.0349 , 50.4678]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Marske to Tees",
+				"name": "Melby"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.6261, -1.0921 ]
+				"coordinates": [ -1.6691 , 60.3045]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Marwick",
+				"name": "Melvich"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 59.1079, -3.3537 ]
+				"coordinates": [ -3.9103 , 58.5607]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Mawgan Porth",
+				"name": "Mossies"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4678, -5.0349 ]
+				"coordinates": [ -10.057 , 52.305]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Melby",
+				"name": "Mullaghmore Head"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 60.3045, -1.6691 ]
+				"coordinates": [ -8.4514 , 54.4753]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Melvich",
+				"name": "Mullaghmore Strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5607, -3.9103 ]
+				"coordinates": [ -8.4469 , 54.461]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Mossies",
+				"name": "Mundesley"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.305, -10.057 ]
+				"coordinates": [ 1.439 , 52.8789]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Mullaghmore Head",
+				"name": "Murkle Point"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.4753, -8.4514 ]
+				"coordinates": [ -3.4277 , 58.6079]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Mullaghmore Strand",
+				"name": "Newcastle"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.461, -8.4469 ]
+				"coordinates": [ -5.8866 , 54.2082]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Mundesley",
+				"name": "Newgale"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.8789, 1.439 ]
+				"coordinates": [ -5.12 , 51.84]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Murkle Point",
+				"name": "Newquay - Cribbar"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.6079, -3.4277 ]
+				"coordinates": [ -5.1026 , 50.4254]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newcastle",
+				"name": "Newquay - Fistral North"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2082, -5.8866 ]
+				"coordinates": [ -5.0997 , 50.4184]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newgale",
+				"name": "Newquay - Fistral South "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.84, -5.12 ]
+				"coordinates": [ -5.1025 , 50.4141]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay - Cribbar",
+				"name": "Newquay - Porth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4254, -5.1026 ]
+				"coordinates": [ -5.0659 , 50.4256]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay - Fistral North",
+				"name": "Newquay - Tolcarne Wedge"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4184, -5.0997 ]
+				"coordinates": [ -5.0749 , 50.4176]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay - Fistral South ",
+				"name": "Newquay - Towan / Great Western"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4141, -5.1025 ]
+				"coordinates": [ -5.0781 , 50.4162]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay - Porth",
+				"name": "Newquay- Little Fistral"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4256, -5.0659 ]
+				"coordinates": [ -5.1 , 50.4229]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay - Tolcarne Wedge",
+				"name": "Nigg Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4176, -5.0749 ]
+				"coordinates": [ -2.0571 , 57.1352]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay - Towan / Great Western",
+				"name": "North Malin"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4162, -5.0781 ]
+				"coordinates": [ -7.3059 , 55.3686]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Newquay- Little Fistral",
+				"name": "Oldhead"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4229, -5.1 ]
+				"coordinates": [ -9.7635 , 53.7769]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Nigg Bay",
+				"name": "Ownahincha"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.1352, -2.0571 ]
+				"coordinates": [ -8.994 , 51.5635]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "North Malin",
+				"name": "Paignton"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.3686, -7.3059 ]
+				"coordinates": [ -3.558 , 50.438]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Oldhead",
+				"name": "Pease Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.7769, -9.7635 ]
+				"coordinates": [ -2.3328 , 55.9319]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Ownahincha",
+				"name": "Penhale (Perran Sands)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5635, -8.994 ]
+				"coordinates": [ -5.1524 , 50.3644]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Paignton",
+				"name": "Pentewan"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.438, -3.558 ]
+				"coordinates": [ -4.7799 , 50.2888]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Pease Bay",
+				"name": "Perelle Bay - Dom Hue - Guernsey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.9319, -2.3328 ]
+				"coordinates": [ -2.6504 , 49.4681]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Penhale (Perran Sands)",
+				"name": "Perranporth (Droskyn)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.3644, -5.1524 ]
+				"coordinates": [ -5.1602 , 50.3492]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Pentewan",
+				"name": "Peterhead (Sandford Bay) "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2888, -4.7799 ]
+				"coordinates": [ -1.7925 , 57.4856]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Perelle Bay - Dom Hue - Guernsey",
+				"name": "Petite Port - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.4681, -2.6504 ]
+				"coordinates": [ -2.239 , 49.1847]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Perranporth (Droskyn)",
+				"name": "Plemont Bay - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.3492, -5.1602 ]
+				"coordinates": [ -2.2288 , 49.257]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Peterhead (Sandford Bay) ",
+				"name": "Pollacheeny Harbour"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.4856, -1.7925 ]
+				"coordinates": [ -9.0677 , 54.2739]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Petite Port - Jersey",
+				"name": "Pollan Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.1847, -2.239 ]
+				"coordinates": [ -7.3499 , 55.3428]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Plemont Bay - Jersey",
+				"name": "Polzeath"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.257, -2.2288 ]
+				"coordinates": [ -4.916 , 50.5766]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Pollacheeny Harbour",
+				"name": "Poppit Sands"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2739, -9.0677 ]
+				"coordinates": [ -4.7055 , 52.1203]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Pollan Bay",
+				"name": "Port Bharrapol (Tiree)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.3428, -7.3499 ]
+				"coordinates": [ -6.9752 , 56.468]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Polzeath",
+				"name": "Port of Ness"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.5766, -4.916 ]
+				"coordinates": [ -6.2257 , 58.4907]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Poppit Sands",
+				"name": "Porthcawl - Coney Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1203, -4.7055 ]
+				"coordinates": [ -3.696 , 51.4766]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Port Bharrapol (Tiree)",
+				"name": "Porthcawl - Rest Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.468, -6.9752 ]
+				"coordinates": [ -3.7293 , 51.4896]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Port of Ness",
+				"name": "Porthleven"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.4907, -6.2257 ]
+				"coordinates": [ -5.3215 , 50.0812]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Porthcawl - Coney Beach",
+				"name": "Porthmeor"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.4766, -3.696 ]
+				"coordinates": [ -5.4826 , 50.2162]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Porthcawl - Rest Bay",
+				"name": "Porthtowan"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.4896, -3.7293 ]
+				"coordinates": [ -5.2461 , 50.2891]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Porthleven",
+				"name": "Portinfer - Guernsey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.0812, -5.3215 ]
+				"coordinates": [ -2.5801 , 49.4903]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Porthmeor",
+				"name": "Portreath - Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2162, -5.4826 ]
+				"coordinates": [ -5.2942 , 50.2619]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Porthtowan",
+				"name": "Portrush"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2891, -5.2461 ]
+				"coordinates": [ -6.6615 , 55.1996]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Portinfer - Guernsey",
+				"name": "Praa Sands"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.4903, -2.5801 ]
+				"coordinates": [ -5.391 , 50.103]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Portreath - Beach",
+				"name": "Putsborough"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.2619, -5.2942 ]
+				"coordinates": [ -4.2225 , 51.1451]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Portrush",
+				"name": "Quendale Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.1996, -6.6615 ]
+				"coordinates": [ -1.3465 , 59.8762]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Praa Sands",
+				"name": "Red Strand (Dirk Bay)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.103, -5.391 ]
+				"coordinates": [ -8.9268 , 51.5466]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Putsborough",
+				"name": "Redcar"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.1451, -4.2225 ]
+				"coordinates": [ -1.0482 , 54.6202]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Quendale Bay",
+				"name": "Rhossili"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 59.8762, -1.3465 ]
+				"coordinates": [ -4.3012 , 51.5714]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Red Strand (Dirk Bay)",
+				"name": "Roonagh Pier"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5466, -8.9268 ]
+				"coordinates": [ -9.9058 , 53.7629]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Redcar",
+				"name": "Rosapenna"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.6202, -1.0482 ]
+				"coordinates": [ -7.8261 , 55.1791]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Rhossili",
+				"name": "Rossbeigh"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5714, -4.3012 ]
+				"coordinates": [ -9.9757 , 52.0569]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Roonagh Pier",
+				"name": "Rossnowlagh"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.7629, -9.9058 ]
+				"coordinates": [ -8.2132 , 54.5542]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Rosapenna",
+				"name": "Saligo Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.1791, -7.8261 ]
+				"coordinates": [ -6.4609 , 55.8115]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Rossbeigh",
+				"name": "Saltburn Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.0569, -9.9757 ]
+				"coordinates": [ -0.9719 , 54.5879]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Rossnowlagh",
+				"name": "Sandend (Moray Firth)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.5542, -8.2132 ]
+				"coordinates": [ -2.7434 , 57.6834]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "S*** Pipe",
+				"name": "Sandside Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.6005, -3.5159 ]
+				"coordinates": [ -3.7913 , 58.5683]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "S*** Pipe",
+				"name": "Sandwood Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.07, -4.731 ]
+				"coordinates": [ -5.0608 , 58.5406]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Saligo Bay",
+				"name": "Sandymouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.8115, -6.4609 ]
+				"coordinates": [ -4.5603 , 50.8615]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Saltburn Beach",
+				"name": "Sango Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.5879, -0.9719 ]
+				"coordinates": [ -4.7383 , 58.5692]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sandend (Moray Firth)",
+				"name": "Saunton Sands"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.6834, -2.7434 ]
+				"coordinates": [ -4.2315 , 51.1159]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sandside Bay",
+				"name": "Scarasta"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5683, -3.7913 ]
+				"coordinates": [ -7.0625 , 57.8265]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sandwood Bay",
+				"name": "Scarborough - North Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5406, -5.0608 ]
+				"coordinates": [ -0.3974 , 54.2902]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sandymouth",
+				"name": "Scarborough - South Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8615, -4.5603 ]
+				"coordinates": [ -0.3949 , 54.2791]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sango Bay",
+				"name": "Seacliff"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5692, -4.7383 ]
+				"coordinates": [ -2.6361 , 56.0522]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Saunton Sands",
+				"name": "Seaton To Blyth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.1159, -4.2315 ]
+				"coordinates": [ -1.4916 , 55.1004]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Scarasta",
+				"name": "Secrets - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.8265, -7.0625 ]
+				"coordinates": [ -2.2381 , 49.2307]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Scarborough - North Bay",
+				"name": "Sennen"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2902, -0.3974 ]
+				"coordinates": [ -5.6976 , 50.0802]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Scarborough - South Bay",
+				"name": "Shoreham"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2791, -0.3949 ]
+				"coordinates": [ -0.2284 , 50.8275]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Seacliff",
+				"name": "Sidmouth (Lyme Bay)"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.0522, -2.6361 ]
+				"coordinates": [ -3.2368 , 50.6756]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Seaton To Blyth",
+				"name": "Silecroft"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.1004, -1.4916 ]
+				"coordinates": [ -3.3514 , 54.2167]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Secrets - Jersey",
+				"name": "Sinclairs Bay - Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.2307, -2.2381 ]
+				"coordinates": [ -3.1305 , 58.5027]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sennen",
+				"name": "Skail Bay Right"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.0802, -5.6976 ]
+				"coordinates": [ -3.3426 , 59.0554]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Shoreham",
+				"name": "Skara Brae"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.8275, -0.2284 ]
+				"coordinates": [ -3.3479 , 59.0532]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sidmouth (Lyme Bay)",
+				"name": "Skegness"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.6756, -3.2368 ]
+				"coordinates": [ 0.349 , 53.1467]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Silecroft",
+				"name": "South Shields"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.2167, -3.3514 ]
+				"coordinates": [ -1.408 , 54.9998]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sinclairs Bay - Beach",
+				"name": "Southbourne"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5027, -3.1305 ]
+				"coordinates": [ -1.8012 , 50.7193]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Skail Bay Right",
+				"name": "Southend on Sea"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 59.0554, -3.3426 ]
+				"coordinates": [ 0.7457 , 51.5299]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Skara Brae",
+				"name": "Southerndown"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 59.0532, -3.3479 ]
+				"coordinates": [ -3.6086 , 51.445]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Skegness",
+				"name": "Southwold"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.1467, 0.349 ]
+				"coordinates": [ 1.6834 , 52.3276]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "South Shields",
+				"name": "St Agnes"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.9998, -1.408 ]
+				"coordinates": [ -5.2017 , 50.3213]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Southbourne",
+				"name": "St Andrews East"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7193, -1.8012 ]
+				"coordinates": [ -2.7786 , 56.3386]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Southend on Sea",
+				"name": "St Andrews West"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.5299, 0.7457 ]
+				"coordinates": [ -2.799 , 56.3489]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Southerndown",
+				"name": "St Bees"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.445, -3.6086 ]
+				"coordinates": [ -3.6065 , 54.4903]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Southwold",
+				"name": "St Brelades - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.3276, 1.6834 ]
+				"coordinates": [ -2.1958 , 49.1842]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "St Agnes",
+				"name": "St Combs to Inverallochy"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.3213, -5.2017 ]
+				"coordinates": [ -1.9094 , 57.6675]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "St Andrews East",
+				"name": "Staffin Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.3386, -2.7786 ]
+				"coordinates": [ -6.2311 , 57.637]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "St Andrews West",
+				"name": "Stinky Bay - Jersey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.3489, -2.799 ]
+				"coordinates": [ -2.2507 , 49.2407]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "St Bees",
+				"name": "Stonehaven "
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.4903, -3.6065 ]
+				"coordinates": [ -2.2032 , 56.9659]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "St Brelades - Jersey",
+				"name": "Strandhill"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.1842, -2.1958 ]
+				"coordinates": [ -8.6128 , 54.27]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "St Combs to Inverallochy",
+				"name": "Strathy"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.6675, -1.9094 ]
+				"coordinates": [ -4.0005 , 58.5695]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Staffin Bay",
+				"name": "Sunderland"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.637, -6.2311 ]
+				"coordinates": [ -1.3541 , 54.9121]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Stinky Bay - Jersey",
+				"name": "Surf Snowdonia"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.2407, -2.2507 ]
+				"coordinates": [ -3.8434 , 53.1854]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Stonehaven ",
+				"name": "Sutton on Sea"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.9659, -2.2032 ]
+				"coordinates": [ 0.28 , 53.32]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Strandhill",
+				"name": "Talisker Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.27, -8.6128 ]
+				"coordinates": [ -6.4598 , 57.2843]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Strathy",
+				"name": "Teignmouth"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5695, -4.0005 ]
+				"coordinates": [ -3.49 , 50.55]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sunderland",
+				"name": "Tenby South Beach"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.9121, -1.3541 ]
+				"coordinates": [ -4.6997 , 51.6661]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Surf Snowdonia",
+				"name": "The Hough"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.1854, -3.8434 ]
+				"coordinates": [ -6.9817 , 56.5108]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sutton on Sea",
+				"name": "The Maze"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 53.32, 0.28 ]
+				"coordinates": [ -6.9835 , 56.497]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Talisker Bay",
+				"name": "The Perfect Wave"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 57.2843, -6.4598 ]
+				"coordinates": [ -7.2706 , 52.1374]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Teignmouth",
+				"name": "Thurso East"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.55, -3.49 ]
+				"coordinates": [ -3.5097 , 58.6026]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tenby South Beach",
+				"name": "Tidemills"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.6661, -4.6997 ]
+				"coordinates": [ 0.1094 , 50.7635]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "The edge",
+				"name": "Torbay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.0669, -4.7348 ]
+				"coordinates": [ -3.4812 , 50.4289]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "The Hough",
+				"name": "Torrisdale"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.5108, -6.9817 ]
+				"coordinates": [ -4.2514 , 58.5278]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "The Maze",
+				"name": "Tramore - Incredible Wave"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 56.497, -6.9835 ]
+				"coordinates": [ -7.1035 , 52.1387]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "The Perfect Wave",
+				"name": "Tramore - Strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1374, -7.2706 ]
+				"coordinates": [ -7.1447 , 52.1569]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "The Point",
+				"name": "Trebarwith strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.0667, -4.7368 ]
+				"coordinates": [ -4.7616 , 50.6447]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Thurso East",
+				"name": "Treyarnon"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.6026, -3.5097 ]
+				"coordinates": [ -5.026 , 50.5275]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tidemills",
+				"name": "Tullan Strand"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7635, 0.1094 ]
+				"coordinates": [ -8.2709 , 54.4924]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Torbay",
+				"name": "Tynemouth - Longsands"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4289, -3.4812 ]
+				"coordinates": [ -1.4234 , 55.0267]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Torrisdale",
+				"name": "Tywyn to Aberdovey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 58.5278, -4.2514 ]
+				"coordinates": [ -4.0916 , 52.5613]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tramore - Incredible Wave",
+				"name": "Vazon Bay - Beach - Guernsey"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1387, -7.1035 ]
+				"coordinates": [ -2.6086 , 49.4696]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tramore - Strand",
+				"name": "Walcott"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.1569, -7.1447 ]
+				"coordinates": [ 1.5009 , 52.8437]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Trebarwith strand",
+				"name": "Walton-on-the-Naze"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.6447, -4.7616 ]
+				"coordinates": [ 1.2803 , 51.8481]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Treyarnon",
+				"name": "Watergate Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.5275, -5.026 ]
+				"coordinates": [ -5.0451 , 50.4451]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tullan Strand",
+				"name": "Wembury"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 54.4924, -8.2709 ]
+				"coordinates": [ -4.0855 , 50.3161]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tynemouth - Longsands",
+				"name": "West Wittering"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.0267, -1.4234 ]
+				"coordinates": [ -0.9084 , 50.7739]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Tywyn to Aberdovey",
+				"name": "Westport"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.5613, -4.0916 ]
+				"coordinates": [ -5.7136 , 55.4729]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Vazon Bay - Beach - Guernsey",
+				"name": "Westward Ho!"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 49.4696, -2.6086 ]
+				"coordinates": [ -4.2464 , 51.0427]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Walcott",
+				"name": "Whipsiderry"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 52.8437, 1.5009 ]
+				"coordinates": [ -5.0602 , 50.4299]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Walton-on-the-Naze",
+				"name": "Whitby"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.8481, 1.2803 ]
+				"coordinates": [ -0.6164 , 54.4917]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Watergate Bay",
+				"name": "Whitesands Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4451, -5.0451 ]
+				"coordinates": [ -5.298 , 51.8964]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Wembury",
+				"name": "Whitley Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.3161, -4.0855 ]
+				"coordinates": [ -1.4443 , 55.0485]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "West Wittering",
+				"name": "Whitsand Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.7739, -0.9084 ]
+				"coordinates": [ -4.2434 , 50.3387]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Westport",
+				"name": "Widemouth Bay"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 55.4729, -5.7136 ]
+				"coordinates": [ -4.5618 , 50.7912]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Westward Ho!",
+				"name": "Withernsea"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 51.0427, -4.2464 ]
+				"coordinates": [ 0.0351 , 53.7316]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Whipsiderry",
+				"name": "Woolacombe"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 50.4299, -5.0602 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Whitby",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 54.4917, -0.6164 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Whitesands Bay",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 51.8964, -5.298 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Whitley Bay",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 55.0485, -1.4443 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Whitsand Bay",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 50.3387, -4.2434 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Widemouth Bay",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 50.7912, -4.5618 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Withernsea",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 53.7316, 0.0351 ]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Woolacombe",
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 51.1711, -4.2139 ]
+				"coordinates": [ -4.2139 , 51.1711]
 			}
 		}
 	]

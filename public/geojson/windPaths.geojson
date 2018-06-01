@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"wind": "danger"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[ -5.693271, 50.148209 ],
+					[ -5.674571, 50.162116 ],
+					[ -5.672901, 50.166822 ],
+					[ -5.658876, 50.164470 ],
+					[ -5.628488, 50.168106 ]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"wind": "success"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[ -5.628488, 50.168106 ],
+					[ -5.612125, 50.182007 ],
+					[ -5.538659, 50.214713 ]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"wind": "warning"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[ -5.538659, 50.214713 ],
+					[ -5.486565, 50.215781 ],
+					[ -5.441484, 50.196760 ],
+					[ -5.395735, 50.240989 ]
+				]
+			}
+		}
+	]
+}

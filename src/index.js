@@ -4,6 +4,8 @@ import Map from 'ol/map';
 import View from 'ol/view';
 import TileLayer from 'ol/layer/tile';
 
+import Icon from 'ol/style/icon';
+import Circle from 'ol/style/circle';
 import Fill from 'ol/style/fill';
 import Style from 'ol/style/style';
 import Stroke from 'ol/style/stroke';
@@ -15,10 +17,10 @@ import proj from 'ol/proj'
 
 const style = new Style({
     fill: new Fill({
-      color: '#fff'
+      color: '#27262a'
     }),
     stroke: new Stroke({
-      color: '#333',
+      color: '#27262a',
       width: 1
     })
   }),
@@ -27,11 +29,43 @@ const style = new Style({
     fill: new Fill({
       color: '#27262a'
     }),
-    stroke: new Stroke({
-      color: '#d92868',
-      width: 2
-    })
-  });
+    stroke: null
+  }),
+
+  	spotsStyle = new Style({
+		image: new Circle({
+		     radius: 4,
+		     fill: new Fill({
+				color: '#3089cb'
+			}),
+		     stroke: new Stroke({
+		     	color: '#fff',
+		     	width: 2
+		     })
+		 })
+	}),
+
+  	dangerPath =  new Style({
+		stroke: new Stroke({
+			color: '#ce3d48',
+			width: 2
+		})
+	}),
+
+  	successPath =  new Style({
+		stroke: new Stroke({
+			color: '#85b446',
+			width: 2
+		})
+	}),
+
+  	warningPath =  new Style({
+		stroke: new Stroke({
+			color: '#e76b38',
+			width: 2
+		})
+	});
+
 
 new Map({
   target: 'map',
@@ -47,6 +81,46 @@ new Map({
 
         return style;
       }
+    }),
+    // Spots
+    new VectorLayer({
+    	source: new VectorSource({
+			url: '/geojson/spots.geojson',
+			format: new GeoJSON()
+    	}),
+    	style: spotsStyle,
+    }),
+    // Wind Paths
+    new VectorLayer({
+		source: new VectorSource({
+			url: '/geojson/windPaths.geojson',
+			format: new GeoJSON()
+		}),
+		style: (feature) => {
+			if (feature.values_.wind === 'danger')
+				return dangerPath;
+
+			else if (feature.values_.wind === 'success')
+				return successPath;
+
+			return warningPath;
+		}
+    }),
+    // Wind Icons
+    new VectorLayer({
+		source: new VectorSource({
+			url: '/geojson/wind.geojson',
+			format: new GeoJSON()
+		}),
+		style: (feature) => {
+			return new Style({
+				image: new Icon({
+					src: '/svg/windIcon.svg',
+					imgSize: [29, 12],
+					rotation: feature.values_.wind.direction * 0.01745329252
+		        })
+			});
+		}
     })
   ],
   view: new View({
